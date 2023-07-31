@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "545709559490",
+    "project_id": "ecommerc-multi",
+    "storage_bucket": "ecommerc-multi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545709559490:android:553817eb5d91f016be755b",
+        "android_client_info": {
+          "package_name": "com.ammar.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545709559490-91vprf61aeevinffmeua3sch9sspke1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ammar.ecommerce",
+            "certificate_hash": "dfdffe677664c2c39c4d2b904afcaa4c7a151e19"
+          }
+        },
+        {
+          "client_id": "545709559490-qgqn3njsefb22rumq0ouuautvp88gl6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MOIV2BePVreuPn25VSabsrdX-ezW5qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545709559490-qgqn3njsefb22rumq0ouuautvp88gl6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
